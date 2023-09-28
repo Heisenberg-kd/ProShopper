@@ -1,0 +1,12 @@
+{
+  "name": "proshopper",
+  "version": "1.0.0",
+  "description": "eCommerce Application built with MERN Stack.",
+  "type":"module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Kartikaya Dwivedi",
+  "license": "ISC"
+}
